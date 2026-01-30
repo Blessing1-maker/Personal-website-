@@ -1,0 +1,19 @@
+@font-face {
+    font-family:body-font;
+    src: url(../fonts/montecarlo/MonteCarlo/MonteCarlo-Regular.ttf);
+}
+
+body {
+    background-color: brown;
+    font-family: body-font;
+}
+
+h1 {
+    font-family: cursive;
+    color: chocolate;
+}
+
+a {
+    color: rgb(235, 180, 114)
+}
+#poition{font-family:"Petit Formal Script", cursive}
